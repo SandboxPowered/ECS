@@ -1,0 +1,5 @@
+
+
+include 'artemis'
+
+project(':artemis').projectDir = new File('./artemis-core/artemis')

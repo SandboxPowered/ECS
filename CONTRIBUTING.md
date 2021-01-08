@@ -15,23 +15,23 @@ Thank you so much for your interest in contributing! All types of contributions 
 
 If you have a question.
 
-* Ask on [gitter](https://gitter.im/junkdog/artemis-odb) or the [Libgdx Discord #ecs channel](https://discord.gg/7c6Wg8H).
-* Feel free to open an Issue at https://github.com/junkdog/artemis-odb/issues. 
+* Ask on [Discord](https://discord.gg/m9DMfnD).
+* Feel free to open an Issue at https://github.com/SandboxPowered/ECS/issues. 
 * Provide as much context as you can about what you're running into.
 
 ## Report an Error or Bug
 
 If you run into an error or bug with the project:
 
-* Ask on [gitter](https://gitter.im/junkdog/artemis-odb) or the [Libgdx Discord #ecs channel](https://discord.gg/7c6Wg8H).
-* Open an Issue at https://github.com/junkdog/artemis-odb/issues
+* Ask on [Discord](https://discord.gg/m9DMfnD).
+* Open an Issue at https://github.com/SandboxPowered/ECS/issues
 * Include *reproduction steps* that someone else can follow to recreate the bug or error on their own.
 
 ## Request a Feature
 
 If the project does not do something you need or want it to do:
 
-* Open an Issue at https://github.com/junkdog/artemis-odb/issues
+* Open an Issue at https://github.com/SandboxPowered/ECS/issues
 * Provide as much context as you can about what you're running into.
 * Please try and be clear about why existing features and alternatives would not work for you.
 
@@ -62,7 +62,7 @@ To contribute code:
 * Include any [additional documentation](#contribute-documentation) the changes might need.
 * Write tests that verify that your contribution works as expected. If you need help with this, just ask!
 * Write clear, concise commit message(s) that describe the change.
-* Go to https://github.com/junkdog/artemis-odb and open a new pull request with your changes.
+* Go to https://github.com/SandboxPowered/ECS and open a new pull request with your changes.
 * If your PR is connected to an open issue, add a line in your PR's description that says `Fixes: #123`, where `#123` is the number of the issue you're fixing.
 
 Once you've filed the PR:
@@ -74,13 +74,12 @@ Once you've filed the PR:
 
 ### Project Setup
 
-So you wanna contribute some code! That's great! This project uses GitHub Pull Requests to manage contributions, so [read up on how to fork a GitHub project and file a PR](https://guides.github.com/activities/forking) if you've never done it before.
+So you want to contribute some code! That's great! This project uses GitHub Pull Requests to manage contributions, so [read up on how to fork a GitHub project and file a PR](https://guides.github.com/activities/forking) if you've never done it before.
 
-If this seems like a lot or you aren't able to do all this setup, you might also be able to [edit the files directly](https://help.github.com/articles/editing-files-in-another-user-s-repository/) without having to do any of this setup. Yes, [even code](#contribute-code).
+If this seems like a lot, or you aren't able to do all this setup, you might also be able to [edit the files directly](https://help.github.com/articles/editing-files-in-another-user-s-repository/) without having to do any of this setup. Yes, [even code](#contribute-code).
 
 If you want to go the usual route and run the project locally, though:
 
-* Make sure you have a recent version of [Maven](https://maven.apache.org/) installed, or an IDE with maven built in (like IntellIJ-IDEA). 
 * [Fork the project](https://guides.github.com/activities/forking/#fork)
 
 Then in your terminal:
@@ -95,7 +94,7 @@ Helping out other users with their questions is a really awesome way of contribu
 
 In order to help other folks out with their questions:
 
-* Go to the [issue tracker](https://github.com/junkdog/artemis-odb/issues).
+* Go to the [issue tracker](https://github.com/SandboxPowered/ECS/issues).
 * Read through the list until you find something that you're familiar enough with to give an answer to.
 * Respond to the issue with whatever details are needed to clarify the question, or get more details about what's going on.
 * Once the discussion wraps up and things are clarified, either close the issue, or ask the original issue filer (or a maintainer) to close it for you.
